@@ -1,2 +1,2 @@
 # SystolicArray
-An NPU-Like systolic array with complete subsystem
+An NPU-like systolic array with complete subsystem
