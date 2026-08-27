@@ -1,0 +1,14 @@
+/build/
+/synthesis/results/
+/test_program/bin/*
+!/test_program/bin/.gitkeep
+
+*.vcd
+*.fst
+*.elf
+*.bin
+*.o
+*.d
+*.log
+*.swp
+*~
